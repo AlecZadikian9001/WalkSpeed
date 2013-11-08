@@ -1,0 +1,15 @@
+name: WalkSpeed
+author: AlecZ
+description: Set the walk or fly speed of a player.
+website: http://tinyurl.com/VGAlbum
+version: 1.0
+main: com.alecz.walkspeed.WalkSpeed
+commands:
+   walkspeed:
+      description: Set the walk speed.
+      usage: /<command> <player> (speed)
+      aliases: [walkspeed, speed]
+   flyspeed:
+      description: Set the fly speed.
+      usage: /<command> <player> (speed)
+      aliases: [flyspeed, fspeed]
